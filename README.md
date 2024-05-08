@@ -3,4 +3,4 @@ Cleavage Under Targets & Tagmentation (CUT&Tag) is a tethering method that uses 
 
 The processing pipeline follows [CUTTag_tutorial](https://yezhengstat.github.io/CUTTag_tutorial/index.html) from Steven Henikoff’s Lab. Codes for processing CUT&Tag data can be found in the “Basic_Data_Processing” folder. And, “Figure_Visualizing” folder for reproducing relevant figures in our manuscript.
 
-**ALL CODES WERE IN "codes_for_review.rar" AND CAN BE VIEWED VIA TOKEN PROVIDED IN REBUTTAL.**
+**ALL CODES ARE IN "codes_for_review.rar" AND CAN BE VIEWED VIA TOKEN PROVIDED IN REBUTTAL.**
